@@ -1,0 +1,19 @@
+{
+    "canisters": {
+      "token_wallet": {
+        "main": "src/main.rs",
+        "type": "rust",
+        "frontend": {
+          "entrypoint": {
+            "main": { "source": "src/main.rs" }
+          }
+        }
+      }
+    },
+    "defaults": {
+      "build": {
+        "packtool": ""
+      }
+    }
+  }
+  

@@ -1,0 +1,12 @@
+[package]
+name = "Wall_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ic_cdk = "0.6.0"
+ic-cdk = "0.12"
+ic-cdk = "0.6"
+ic-cdk = "0.15"
+ic-cdk = "0.7"
+ic-types = "0.7"
